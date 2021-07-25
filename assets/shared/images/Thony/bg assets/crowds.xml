@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="crowds.png">
+	<!-- Created with Adobe Animate version 21.0.3.38773 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="peeps0000" x="0" y="0" width="4301" height="1197" frameX="0" frameY="-67" frameWidth="4301" frameHeight="1264"/>
+	<SubTexture name="peeps0001" x="0" y="0" width="4301" height="1197" frameX="0" frameY="-67" frameWidth="4301" frameHeight="1264"/>
+	<SubTexture name="peeps0002" x="0" y="1197" width="4282" height="1217" frameX="-9" frameY="-38" frameWidth="4301" frameHeight="1264"/>
+	<SubTexture name="peeps0003" x="0" y="1197" width="4282" height="1217" frameX="-9" frameY="-38" frameWidth="4301" frameHeight="1264"/>
+	<SubTexture name="peeps0004" x="0" y="2414" width="4234" height="1255" frameX="-33" frameY="0" frameWidth="4301" frameHeight="1264"/>
+	<SubTexture name="peeps0005" x="0" y="2414" width="4234" height="1255" frameX="-33" frameY="0" frameWidth="4301" frameHeight="1264"/>
+</TextureAtlas>

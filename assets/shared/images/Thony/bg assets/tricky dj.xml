@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="tricky dj.png">
+	<!-- Created with Adobe Animate version 21.0.3.38773 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Tinky0000" x="0" y="0" width="926" height="563"/>
+	<SubTexture name="Tinky0001" x="0" y="0" width="926" height="563"/>
+	<SubTexture name="Tinky0002" x="926" y="0" width="926" height="563"/>
+	<SubTexture name="Tinky0003" x="0" y="563" width="926" height="563"/>
+	<SubTexture name="Tinky0004" x="926" y="563" width="926" height="563"/>
+	<SubTexture name="Tinky0005" x="926" y="563" width="926" height="563"/>
+	<SubTexture name="Tinky0006" x="926" y="563" width="926" height="563"/>
+	<SubTexture name="Tinky0007" x="926" y="563" width="926" height="563"/>
+	<SubTexture name="Tinky0008" x="926" y="563" width="926" height="563"/>
+	<SubTexture name="Tinky0009" x="926" y="563" width="926" height="563"/>
+	<SubTexture name="Tinky0010" x="926" y="563" width="926" height="563"/>
+	<SubTexture name="Tinky0011" x="926" y="563" width="926" height="563"/>
+	<SubTexture name="Tinky0012" x="926" y="563" width="926" height="563"/>
+	<SubTexture name="Tinky0013" x="926" y="563" width="926" height="563"/>
+	<SubTexture name="Tinky0014" x="926" y="563" width="926" height="563"/>
+	<SubTexture name="Tinky0015" x="926" y="563" width="926" height="563"/>
+	<SubTexture name="Tinky0016" x="926" y="563" width="926" height="563"/>
+	<SubTexture name="Tinky0017" x="926" y="563" width="926" height="563"/>
+	<SubTexture name="Tinky0018" x="926" y="563" width="926" height="563"/>
+	<SubTexture name="Tinky0019" x="926" y="563" width="926" height="563"/>
+	<SubTexture name="Tinky0020" x="926" y="563" width="926" height="563"/>
+	<SubTexture name="Tinky0021" x="926" y="563" width="926" height="563"/>
+	<SubTexture name="Tinky0022" x="926" y="563" width="926" height="563"/>
+	<SubTexture name="Tinky0023" x="926" y="563" width="926" height="563"/>
+</TextureAtlas>

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="thonyportrait.png">
+	<!-- Created with Adobe Animate version 21.0.3.38773 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="thony portrait0000" x="0" y="0" width="102" height="447" frameX="-128" frameY="0" frameWidth="359" frameHeight="447"/>
+	<SubTexture name="thony portrait0001" x="102" y="0" width="250" height="447" frameX="-54" frameY="0" frameWidth="359" frameHeight="447"/>
+	<SubTexture name="thony portrait0002" x="352" y="0" width="324" height="447" frameX="-17" frameY="0" frameWidth="359" frameHeight="447"/>
+	<SubTexture name="thony portrait0003" x="676" y="0" width="347" height="447" frameX="-6" frameY="0" frameWidth="359" frameHeight="447"/>
+	<SubTexture name="thony portrait0004" x="0" y="447" width="359" height="447"/>
+	<SubTexture name="thony portrait0005" x="0" y="447" width="359" height="447"/>
+</TextureAtlas>

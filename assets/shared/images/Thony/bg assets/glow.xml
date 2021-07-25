@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="glow.png">
+	<!-- Created with Adobe Animate version 21.0.3.38773 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="fucking glow0000" x="0" y="0" width="1257" height="760"/>
+	<SubTexture name="fucking glow0001" x="1257" y="0" width="1257" height="760"/>
+	<SubTexture name="fucking glow0002" x="2514" y="0" width="1257" height="760"/>
+	<SubTexture name="fucking glow0003" x="3771" y="0" width="1257" height="760"/>
+	<SubTexture name="fucking glow0004" x="5028" y="0" width="1257" height="760"/>
+	<SubTexture name="fucking glow0005" x="6285" y="0" width="1257" height="760"/>
+	<SubTexture name="fucking glow0006" x="0" y="760" width="1257" height="760"/>
+	<SubTexture name="fucking glow0007" x="1257" y="760" width="1257" height="760"/>
+	<SubTexture name="fucking glow0008" x="2514" y="760" width="1257" height="760"/>
+	<SubTexture name="fucking glow0009" x="3771" y="760" width="1257" height="760"/>
+	<SubTexture name="fucking glow0010" x="5028" y="760" width="1257" height="760"/>
+	<SubTexture name="fucking glow0011" x="6285" y="760" width="1257" height="760"/>
+	<SubTexture name="fucking glow0012" x="0" y="1520" width="1257" height="760"/>
+	<SubTexture name="fucking glow0013" x="1257" y="1520" width="1257" height="760"/>
+	<SubTexture name="fucking glow0014" x="2514" y="1520" width="1257" height="760"/>
+	<SubTexture name="fucking glow0015" x="3771" y="1520" width="1257" height="760"/>
+	<SubTexture name="fucking glow0016" x="5028" y="1520" width="1257" height="760"/>
+	<SubTexture name="fucking glow0017" x="6285" y="1520" width="1257" height="760"/>
+	<SubTexture name="fucking glow0018" x="0" y="2280" width="1257" height="760"/>
+	<SubTexture name="fucking glow0019" x="1257" y="2280" width="1257" height="760"/>
+	<SubTexture name="fucking glow0020" x="2514" y="2280" width="1257" height="760"/>
+	<SubTexture name="fucking glow0021" x="3771" y="2280" width="1257" height="760"/>
+	<SubTexture name="fucking glow0022" x="5028" y="2280" width="1257" height="760"/>
+</TextureAtlas>

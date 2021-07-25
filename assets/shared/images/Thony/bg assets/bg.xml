@@ -1,0 +1,112 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bg.png">
+	<!-- Created with Adobe Animate version 21.0.3.38773 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Background0000" x="0" y="0" width="3798" height="2143"/>
+	<SubTexture name="Background0001" x="0" y="0" width="3798" height="2143"/>
+	<SubTexture name="Background0002" x="0" y="0" width="3798" height="2143"/>
+	<SubTexture name="Background0003" x="0" y="0" width="3798" height="2143"/>
+	<SubTexture name="Background0004" x="0" y="0" width="3798" height="2143"/>
+	<SubTexture name="Background0005" x="0" y="0" width="3798" height="2143"/>
+	<SubTexture name="Background0006" x="0" y="0" width="3798" height="2143"/>
+	<SubTexture name="Background0007" x="0" y="0" width="3798" height="2143"/>
+	<SubTexture name="Background0008" x="0" y="0" width="3798" height="2143"/>
+	<SubTexture name="Background0009" x="0" y="0" width="3798" height="2143"/>
+	<SubTexture name="Background0010" x="0" y="0" width="3798" height="2143"/>
+	<SubTexture name="Background0011" x="0" y="0" width="3798" height="2143"/>
+	<SubTexture name="Background0012" x="0" y="0" width="3798" height="2143"/>
+	<SubTexture name="Background0013" x="0" y="0" width="3798" height="2143"/>
+	<SubTexture name="Background0014" x="0" y="0" width="3798" height="2143"/>
+	<SubTexture name="Background0015" x="0" y="0" width="3798" height="2143"/>
+	<SubTexture name="Background0016" x="0" y="0" width="3798" height="2143"/>
+	<SubTexture name="Background0017" x="0" y="0" width="3798" height="2143"/>
+	<SubTexture name="Background0018" x="0" y="0" width="3798" height="2143"/>
+	<SubTexture name="Background0019" x="0" y="0" width="3798" height="2143"/>
+	<SubTexture name="Background0020" x="0" y="0" width="3798" height="2143"/>
+	<SubTexture name="Background0021" x="0" y="0" width="3798" height="2143"/>
+	<SubTexture name="Background0022" x="0" y="0" width="3798" height="2143"/>
+	<SubTexture name="Background0023" x="0" y="0" width="3798" height="2143"/>
+	<SubTexture name="Background0024" x="0" y="0" width="3798" height="2143"/>
+	<SubTexture name="Background0025" x="0" y="0" width="3798" height="2143"/>
+	<SubTexture name="Background0026" x="0" y="0" width="3798" height="2143"/>
+	<SubTexture name="Background0027" x="0" y="0" width="3798" height="2143"/>
+	<SubTexture name="Background0028" x="0" y="0" width="3798" height="2143"/>
+	<SubTexture name="Background0029" x="0" y="0" width="3798" height="2143"/>
+	<SubTexture name="Background0030" x="0" y="0" width="3798" height="2143"/>
+	<SubTexture name="Background0031" x="0" y="0" width="3798" height="2143"/>
+	<SubTexture name="Background0032" x="0" y="0" width="3798" height="2143"/>
+	<SubTexture name="Background0033" x="0" y="0" width="3798" height="2143"/>
+	<SubTexture name="Background0034" x="0" y="0" width="3798" height="2143"/>
+	<SubTexture name="Background0035" x="0" y="0" width="3798" height="2143"/>
+	<SubTexture name="Background0036" x="0" y="0" width="3798" height="2143"/>
+	<SubTexture name="Background0037" x="0" y="0" width="3798" height="2143"/>
+	<SubTexture name="disco floor0000" x="3798" y="0" width="1748" height="631"/>
+	<SubTexture name="disco floor0001" x="3798" y="0" width="1748" height="631"/>
+	<SubTexture name="disco floor0002" x="3798" y="0" width="1748" height="631"/>
+	<SubTexture name="disco floor0003" x="3798" y="0" width="1748" height="631"/>
+	<SubTexture name="disco floor0004" x="3798" y="0" width="1748" height="631"/>
+	<SubTexture name="disco floor0005" x="3798" y="0" width="1748" height="631"/>
+	<SubTexture name="disco floor0006" x="3798" y="0" width="1748" height="631"/>
+	<SubTexture name="disco floor0007" x="3798" y="0" width="1748" height="631"/>
+	<SubTexture name="disco floor0008" x="3798" y="0" width="1748" height="631"/>
+	<SubTexture name="disco floor0009" x="5546" y="0" width="1748" height="631"/>
+	<SubTexture name="disco floor0010" x="5546" y="0" width="1748" height="631"/>
+	<SubTexture name="disco floor0011" x="5546" y="0" width="1748" height="631"/>
+	<SubTexture name="disco floor0012" x="5546" y="0" width="1748" height="631"/>
+	<SubTexture name="disco floor0013" x="5546" y="0" width="1748" height="631"/>
+	<SubTexture name="disco floor0014" x="5546" y="0" width="1748" height="631"/>
+	<SubTexture name="disco floor0015" x="5546" y="0" width="1748" height="631"/>
+	<SubTexture name="disco floor0016" x="5546" y="0" width="1748" height="631"/>
+	<SubTexture name="disco floor0017" x="5546" y="0" width="1748" height="631"/>
+	<SubTexture name="disco floor0018" x="0" y="2143" width="1748" height="631"/>
+	<SubTexture name="disco floor0019" x="0" y="2143" width="1748" height="631"/>
+	<SubTexture name="disco floor0020" x="0" y="2143" width="1748" height="631"/>
+	<SubTexture name="disco floor0021" x="1748" y="2143" width="1748" height="631"/>
+	<SubTexture name="disco floor0022" x="1748" y="2143" width="1748" height="631"/>
+	<SubTexture name="disco floor0023" x="1748" y="2143" width="1748" height="631"/>
+	<SubTexture name="disco floor0024" x="3496" y="2143" width="1748" height="631"/>
+	<SubTexture name="disco floor0025" x="3496" y="2143" width="1748" height="631"/>
+	<SubTexture name="disco floor0026" x="3496" y="2143" width="1748" height="631"/>
+	<SubTexture name="disco floor0027" x="5244" y="2143" width="1748" height="631"/>
+	<SubTexture name="disco floor0028" x="5244" y="2143" width="1748" height="631"/>
+	<SubTexture name="disco floor0029" x="5244" y="2143" width="1748" height="631"/>
+	<SubTexture name="disco floor0030" x="0" y="2774" width="1748" height="631"/>
+	<SubTexture name="disco floor0031" x="0" y="2774" width="1748" height="631"/>
+	<SubTexture name="disco floor0032" x="0" y="2774" width="1748" height="631"/>
+	<SubTexture name="disco floor0033" x="0" y="2774" width="1748" height="631"/>
+	<SubTexture name="disco floor0034" x="0" y="2774" width="1748" height="631"/>
+	<SubTexture name="disco floor0035" x="1748" y="2774" width="1748" height="631"/>
+	<SubTexture name="disco floor0036" x="1748" y="2774" width="1748" height="631"/>
+	<SubTexture name="disco floor0037" x="1748" y="2774" width="1748" height="631"/>
+	<SubTexture name="disco floor0038" x="1748" y="2774" width="1748" height="631"/>
+	<SubTexture name="disco floor0039" x="1748" y="2774" width="1748" height="631"/>
+	<SubTexture name="disco floor0040" x="3496" y="2774" width="1748" height="631"/>
+	<SubTexture name="disco floor0041" x="3496" y="2774" width="1748" height="631"/>
+	<SubTexture name="disco floor0042" x="3496" y="2774" width="1748" height="631"/>
+	<SubTexture name="disco floor0043" x="3496" y="2774" width="1748" height="631"/>
+	<SubTexture name="disco floor0044" x="3496" y="2774" width="1748" height="631"/>
+	<SubTexture name="disco floor0045" x="5244" y="2774" width="1748" height="631"/>
+	<SubTexture name="disco floor0046" x="5244" y="2774" width="1748" height="631"/>
+	<SubTexture name="disco floor0047" x="5244" y="2774" width="1748" height="631"/>
+	<SubTexture name="disco floor0048" x="5244" y="2774" width="1748" height="631"/>
+	<SubTexture name="disco floor0049" x="5244" y="2774" width="1748" height="631"/>
+	<SubTexture name="disco floor0050" x="5244" y="2774" width="1748" height="631"/>
+	<SubTexture name="disco floor0051" x="5244" y="2774" width="1748" height="631"/>
+	<SubTexture name="disco floor0052" x="5244" y="2774" width="1748" height="631"/>
+	<SubTexture name="disco floor0053" x="3798" y="0" width="1748" height="631"/>
+	<SubTexture name="disco floor0054" x="3798" y="0" width="1748" height="631"/>
+	<SubTexture name="disco floor0055" x="3798" y="0" width="1748" height="631"/>
+	<SubTexture name="disco floor0056" x="3798" y="0" width="1748" height="631"/>
+	<SubTexture name="disco floor0057" x="3798" y="0" width="1748" height="631"/>
+	<SubTexture name="disco floor0058" x="3798" y="0" width="1748" height="631"/>
+	<SubTexture name="disco floor0059" x="3798" y="0" width="1748" height="631"/>
+	<SubTexture name="disco floor0060" x="3798" y="0" width="1748" height="631"/>
+	<SubTexture name="disco floor0061" x="5546" y="0" width="1748" height="631"/>
+	<SubTexture name="disco floor0062" x="5546" y="0" width="1748" height="631"/>
+	<SubTexture name="disco floor0063" x="5546" y="0" width="1748" height="631"/>
+	<SubTexture name="disco floor0064" x="5546" y="0" width="1748" height="631"/>
+	<SubTexture name="disco floor0065" x="5546" y="0" width="1748" height="631"/>
+	<SubTexture name="disco floor0066" x="5546" y="0" width="1748" height="631"/>
+	<SubTexture name="disco floor0067" x="5546" y="0" width="1748" height="631"/>
+	<SubTexture name="disco floor0068" x="5546" y="0" width="1748" height="631"/>
+</TextureAtlas>

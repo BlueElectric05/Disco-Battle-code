@@ -1,0 +1,113 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="club.png">
+	<!-- Created with Adobe Animate version 21.0.3.38773 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Background instance 10000" x="0" y="0" width="3798" height="2143"/>
+	<SubTexture name="Background instance 10001" x="0" y="0" width="3798" height="2143"/>
+	<SubTexture name="Background instance 10002" x="0" y="0" width="3798" height="2143"/>
+	<SubTexture name="Background instance 10003" x="0" y="0" width="3798" height="2143"/>
+	<SubTexture name="Background instance 10004" x="0" y="0" width="3798" height="2143"/>
+	<SubTexture name="Background instance 10005" x="0" y="0" width="3798" height="2143"/>
+	<SubTexture name="Background instance 10006" x="0" y="0" width="3798" height="2143"/>
+	<SubTexture name="Background instance 10007" x="0" y="0" width="3798" height="2143"/>
+	<SubTexture name="Background instance 10008" x="0" y="0" width="3798" height="2143"/>
+	<SubTexture name="Background instance 10009" x="0" y="0" width="3798" height="2143"/>
+	<SubTexture name="Background instance 10010" x="0" y="0" width="3798" height="2143"/>
+	<SubTexture name="Background instance 10011" x="0" y="0" width="3798" height="2143"/>
+	<SubTexture name="Background instance 10012" x="0" y="0" width="3798" height="2143"/>
+	<SubTexture name="Background instance 10013" x="0" y="0" width="3798" height="2143"/>
+	<SubTexture name="Background instance 10014" x="0" y="0" width="3798" height="2143"/>
+	<SubTexture name="Background instance 10015" x="0" y="0" width="3798" height="2143"/>
+	<SubTexture name="Background instance 10016" x="0" y="0" width="3798" height="2143"/>
+	<SubTexture name="Background instance 10017" x="0" y="0" width="3798" height="2143"/>
+	<SubTexture name="Background instance 10018" x="0" y="0" width="3798" height="2143"/>
+	<SubTexture name="Background instance 10019" x="0" y="0" width="3798" height="2143"/>
+	<SubTexture name="Background instance 10020" x="0" y="0" width="3798" height="2143"/>
+	<SubTexture name="Background instance 10021" x="0" y="0" width="3798" height="2143"/>
+	<SubTexture name="Background instance 10022" x="0" y="0" width="3798" height="2143"/>
+	<SubTexture name="Background instance 10023" x="0" y="0" width="3798" height="2143"/>
+	<SubTexture name="Background instance 10024" x="0" y="0" width="3798" height="2143"/>
+	<SubTexture name="Background instance 10025" x="0" y="0" width="3798" height="2143"/>
+	<SubTexture name="Background instance 10026" x="0" y="0" width="3798" height="2143"/>
+	<SubTexture name="Background instance 10027" x="0" y="0" width="3798" height="2143"/>
+	<SubTexture name="Background instance 10028" x="0" y="0" width="3798" height="2143"/>
+	<SubTexture name="Background instance 10029" x="0" y="0" width="3798" height="2143"/>
+	<SubTexture name="Background instance 10030" x="0" y="0" width="3798" height="2143"/>
+	<SubTexture name="Background instance 10031" x="0" y="0" width="3798" height="2143"/>
+	<SubTexture name="Background instance 10032" x="0" y="0" width="3798" height="2143"/>
+	<SubTexture name="Background instance 10033" x="0" y="0" width="3798" height="2143"/>
+	<SubTexture name="Background instance 10034" x="0" y="0" width="3798" height="2143"/>
+	<SubTexture name="Background instance 10035" x="0" y="0" width="3798" height="2143"/>
+	<SubTexture name="Background instance 10036" x="0" y="0" width="3798" height="2143"/>
+	<SubTexture name="Background instance 10037" x="0" y="0" width="3798" height="2143"/>
+	<SubTexture name="disco floor instance 10000" x="3798" y="0" width="1712" height="642"/>
+	<SubTexture name="disco floor instance 10001" x="3798" y="0" width="1712" height="642"/>
+	<SubTexture name="disco floor instance 10002" x="3798" y="0" width="1712" height="642"/>
+	<SubTexture name="disco floor instance 10003" x="3798" y="0" width="1712" height="642"/>
+	<SubTexture name="disco floor instance 10004" x="3798" y="0" width="1712" height="642"/>
+	<SubTexture name="disco floor instance 10005" x="3798" y="0" width="1712" height="642"/>
+	<SubTexture name="disco floor instance 10006" x="3798" y="0" width="1712" height="642"/>
+	<SubTexture name="disco floor instance 10007" x="3798" y="0" width="1712" height="642"/>
+	<SubTexture name="disco floor instance 10008" x="3798" y="0" width="1712" height="642"/>
+	<SubTexture name="disco floor instance 10009" x="5510" y="0" width="1712" height="642"/>
+	<SubTexture name="disco floor instance 10010" x="5510" y="0" width="1712" height="642"/>
+	<SubTexture name="disco floor instance 10011" x="5510" y="0" width="1712" height="642"/>
+	<SubTexture name="disco floor instance 10012" x="5510" y="0" width="1712" height="642"/>
+	<SubTexture name="disco floor instance 10013" x="5510" y="0" width="1712" height="642"/>
+	<SubTexture name="disco floor instance 10014" x="5510" y="0" width="1712" height="642"/>
+	<SubTexture name="disco floor instance 10015" x="5510" y="0" width="1712" height="642"/>
+	<SubTexture name="disco floor instance 10016" x="5510" y="0" width="1712" height="642"/>
+	<SubTexture name="disco floor instance 10017" x="5510" y="0" width="1712" height="642"/>
+	<SubTexture name="disco floor instance 10018" x="0" y="2143" width="1712" height="642"/>
+	<SubTexture name="disco floor instance 10019" x="0" y="2143" width="1712" height="642"/>
+	<SubTexture name="disco floor instance 10020" x="0" y="2143" width="1712" height="642"/>
+	<SubTexture name="disco floor instance 10021" x="1712" y="2143" width="1712" height="642"/>
+	<SubTexture name="disco floor instance 10022" x="1712" y="2143" width="1712" height="642"/>
+	<SubTexture name="disco floor instance 10023" x="1712" y="2143" width="1712" height="642"/>
+	<SubTexture name="disco floor instance 10024" x="3424" y="2143" width="1712" height="642"/>
+	<SubTexture name="disco floor instance 10025" x="3424" y="2143" width="1712" height="642"/>
+	<SubTexture name="disco floor instance 10026" x="3424" y="2143" width="1712" height="642"/>
+	<SubTexture name="disco floor instance 10027" x="5136" y="2143" width="1712" height="642"/>
+	<SubTexture name="disco floor instance 10028" x="5136" y="2143" width="1712" height="642"/>
+	<SubTexture name="disco floor instance 10029" x="5136" y="2143" width="1712" height="642"/>
+	<SubTexture name="disco floor instance 10030" x="0" y="2785" width="1712" height="642"/>
+	<SubTexture name="disco floor instance 10031" x="0" y="2785" width="1712" height="642"/>
+	<SubTexture name="disco floor instance 10032" x="0" y="2785" width="1712" height="642"/>
+	<SubTexture name="disco floor instance 10033" x="0" y="2785" width="1712" height="642"/>
+	<SubTexture name="disco floor instance 10034" x="0" y="2785" width="1712" height="642"/>
+	<SubTexture name="disco floor instance 10035" x="1712" y="2785" width="1712" height="642"/>
+	<SubTexture name="disco floor instance 10036" x="1712" y="2785" width="1712" height="642"/>
+	<SubTexture name="disco floor instance 10037" x="1712" y="2785" width="1712" height="642"/>
+	<SubTexture name="disco floor instance 10038" x="1712" y="2785" width="1712" height="642"/>
+	<SubTexture name="disco floor instance 10039" x="1712" y="2785" width="1712" height="642"/>
+	<SubTexture name="disco floor instance 10040" x="3424" y="2785" width="1712" height="642"/>
+	<SubTexture name="disco floor instance 10041" x="3424" y="2785" width="1712" height="642"/>
+	<SubTexture name="disco floor instance 10042" x="3424" y="2785" width="1712" height="642"/>
+	<SubTexture name="disco floor instance 10043" x="3424" y="2785" width="1712" height="642"/>
+	<SubTexture name="disco floor instance 10044" x="3424" y="2785" width="1712" height="642"/>
+	<SubTexture name="disco floor instance 10045" x="5136" y="2785" width="1712" height="642"/>
+	<SubTexture name="disco floor instance 10046" x="5136" y="2785" width="1712" height="642"/>
+	<SubTexture name="disco floor instance 10047" x="5136" y="2785" width="1712" height="642"/>
+	<SubTexture name="disco floor instance 10048" x="5136" y="2785" width="1712" height="642"/>
+	<SubTexture name="disco floor instance 10049" x="5136" y="2785" width="1712" height="642"/>
+	<SubTexture name="disco floor instance 10050" x="5136" y="2785" width="1712" height="642"/>
+	<SubTexture name="disco floor instance 10051" x="5136" y="2785" width="1712" height="642"/>
+	<SubTexture name="disco floor instance 10052" x="5136" y="2785" width="1712" height="642"/>
+	<SubTexture name="disco floor instance 10053" x="3798" y="0" width="1712" height="642"/>
+	<SubTexture name="disco floor instance 10054" x="3798" y="0" width="1712" height="642"/>
+	<SubTexture name="disco floor instance 10055" x="3798" y="0" width="1712" height="642"/>
+	<SubTexture name="disco floor instance 10056" x="3798" y="0" width="1712" height="642"/>
+	<SubTexture name="disco floor instance 10057" x="3798" y="0" width="1712" height="642"/>
+	<SubTexture name="disco floor instance 10058" x="3798" y="0" width="1712" height="642"/>
+	<SubTexture name="disco floor instance 10059" x="3798" y="0" width="1712" height="642"/>
+	<SubTexture name="disco floor instance 10060" x="3798" y="0" width="1712" height="642"/>
+	<SubTexture name="disco floor instance 10061" x="5510" y="0" width="1712" height="642"/>
+	<SubTexture name="disco floor instance 10062" x="5510" y="0" width="1712" height="642"/>
+	<SubTexture name="disco floor instance 10063" x="5510" y="0" width="1712" height="642"/>
+	<SubTexture name="disco floor instance 10064" x="5510" y="0" width="1712" height="642"/>
+	<SubTexture name="disco floor instance 10065" x="5510" y="0" width="1712" height="642"/>
+	<SubTexture name="disco floor instance 10066" x="5510" y="0" width="1712" height="642"/>
+	<SubTexture name="disco floor instance 10067" x="5510" y="0" width="1712" height="642"/>
+	<SubTexture name="disco floor instance 10068" x="5510" y="0" width="1712" height="642"/>
+	<SubTexture name="fucking glow instance 10000" x="0" y="3427" width="1838" height="1045"/>
+</TextureAtlas>

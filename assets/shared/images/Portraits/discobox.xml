@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="discobox.png">
+	<!-- Created with Adobe Animate version 21.0.3.38773 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="box0000" x="0" y="992" width="1050" height="248"/>
+	<SubTexture name="boxopen0000" x="0" y="0" width="283" height="114" frameX="-383" frameY="-67" frameWidth="1050" frameHeight="248"/>
+	<SubTexture name="boxopen0001" x="283" y="0" width="320" height="248" frameX="-363" frameY="0" frameWidth="1050" frameHeight="248"/>
+	<SubTexture name="boxopen0002" x="603" y="0" width="1046" height="248" frameX="-1" frameY="0" frameWidth="1050" frameHeight="248"/>
+	<SubTexture name="boxopen0003" x="0" y="248" width="1028" height="248" frameX="-10" frameY="0" frameWidth="1050" frameHeight="248"/>
+	<SubTexture name="boxopen0004" x="0" y="496" width="1028" height="248" frameX="-10" frameY="0" frameWidth="1050" frameHeight="248"/>
+	<SubTexture name="boxopen0005" x="0" y="744" width="1031" height="248" frameX="-9" frameY="0" frameWidth="1050" frameHeight="248"/>
+	<SubTexture name="boxopen0006" x="0" y="744" width="1031" height="248" frameX="-9" frameY="0" frameWidth="1050" frameHeight="248"/>
+	<SubTexture name="boxopen0007" x="0" y="992" width="1050" height="248"/>
+	<SubTexture name="boxopen0008" x="0" y="992" width="1050" height="248"/>
+	<SubTexture name="boxopen0009" x="0" y="992" width="1050" height="248"/>
+</TextureAtlas>

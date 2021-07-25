@@ -1,0 +1,4 @@
+Sparks:thony:7
+Resistance:thony:7
+Shockwave:thony:7
+Roses:thony:7

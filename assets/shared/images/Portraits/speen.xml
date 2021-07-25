@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="speen.png">
+	<!-- Created with Adobe Animate version 21.0.3.38773 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="ok button0000" x="0" y="0" width="65" height="63" frameX="-2" frameY="0" frameWidth="67" frameHeight="63"/>
+	<SubTexture name="ok button0001" x="65" y="0" width="45" height="63" frameX="-11" frameY="0" frameWidth="67" frameHeight="63"/>
+	<SubTexture name="ok button0002" x="110" y="0" width="34" height="63" frameX="-16" frameY="0" frameWidth="67" frameHeight="63"/>
+	<SubTexture name="ok button0003" x="144" y="0" width="20" height="63" frameX="-23" frameY="0" frameWidth="67" frameHeight="63"/>
+	<SubTexture name="ok button0004" x="164" y="0" width="10" height="63" frameX="-28" frameY="0" frameWidth="67" frameHeight="63"/>
+	<SubTexture name="ok button0005" x="174" y="0" width="10" height="63" frameX="-28" frameY="0" frameWidth="67" frameHeight="63"/>
+	<SubTexture name="ok button0006" x="184" y="0" width="20" height="63" frameX="-23" frameY="0" frameWidth="67" frameHeight="63"/>
+	<SubTexture name="ok button0007" x="204" y="0" width="34" height="63" frameX="-16" frameY="0" frameWidth="67" frameHeight="63"/>
+	<SubTexture name="ok button0008" x="0" y="63" width="50" height="63" frameX="-8" frameY="0" frameWidth="67" frameHeight="63"/>
+	<SubTexture name="ok button0009" x="50" y="63" width="64" height="63" frameX="0" frameY="0" frameWidth="67" frameHeight="63"/>
+</TextureAtlas>

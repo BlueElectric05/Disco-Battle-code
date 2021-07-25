@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bfportrait.png">
+	<!-- Created with Adobe Animate version 21.0.3.38773 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="bf portrait0000" x="0" y="0" width="77" height="368" frameX="-166" frameY="0" frameWidth="410" frameHeight="368"/>
+	<SubTexture name="bf portrait0001" x="77" y="0" width="227" height="368" frameX="-91" frameY="0" frameWidth="410" frameHeight="368"/>
+	<SubTexture name="bf portrait0002" x="304" y="0" width="340" height="368" frameX="-35" frameY="0" frameWidth="410" frameHeight="368"/>
+	<SubTexture name="bf portrait0003" x="0" y="368" width="397" height="368" frameX="-6" frameY="0" frameWidth="410" frameHeight="368"/>
+	<SubTexture name="bf portrait0004" x="397" y="368" width="410" height="368"/>
+	<SubTexture name="bf portrait0005" x="397" y="368" width="410" height="368"/>
+</TextureAtlas>

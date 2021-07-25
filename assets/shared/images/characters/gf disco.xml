@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="gf disco.png">
+	<!-- Created with Adobe Animate version 21.0.3.38773 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="GF DISCO DANCE0000" x="0" y="0" width="292" height="442" frameX="-150" frameY="-14" frameWidth="461" frameHeight="456"/>
+	<SubTexture name="GF DISCO DANCE0001" x="0" y="0" width="292" height="442" frameX="-150" frameY="-14" frameWidth="461" frameHeight="456"/>
+	<SubTexture name="GF DISCO DANCE0002" x="292" y="0" width="291" height="440" frameX="-149" frameY="-16" frameWidth="461" frameHeight="456"/>
+	<SubTexture name="GF DISCO DANCE0003" x="292" y="0" width="291" height="440" frameX="-149" frameY="-16" frameWidth="461" frameHeight="456"/>
+	<SubTexture name="GF DISCO DANCE0004" x="583" y="0" width="441" height="443" frameX="0" frameY="-13" frameWidth="461" frameHeight="456"/>
+	<SubTexture name="GF DISCO DANCE0005" x="583" y="0" width="441" height="443" frameX="0" frameY="-13" frameWidth="461" frameHeight="456"/>
+	<SubTexture name="GF DISCO DANCE0006" x="1024" y="0" width="289" height="445" frameX="-152" frameY="-11" frameWidth="461" frameHeight="456"/>
+	<SubTexture name="GF DISCO DANCE0007" x="1313" y="0" width="312" height="456" frameX="-144" frameY="0" frameWidth="461" frameHeight="456"/>
+	<SubTexture name="GF DISCO DANCE0008" x="1313" y="0" width="312" height="456" frameX="-144" frameY="0" frameWidth="461" frameHeight="456"/>
+	<SubTexture name="GF DISCO DANCE0009" x="1313" y="0" width="312" height="456" frameX="-144" frameY="0" frameWidth="461" frameHeight="456"/>
+	<SubTexture name="GF DISCO DANCE0010" x="1625" y="0" width="322" height="456" frameX="-135" frameY="0" frameWidth="461" frameHeight="456"/>
+	<SubTexture name="GF DISCO DANCE0011" x="1625" y="0" width="322" height="456" frameX="-135" frameY="0" frameWidth="461" frameHeight="456"/>
+	<SubTexture name="GF DISCO DANCE0012" x="1625" y="0" width="322" height="456" frameX="-135" frameY="0" frameWidth="461" frameHeight="456"/>
+	<SubTexture name="GF DISCO DANCE0013" x="0" y="456" width="324" height="456" frameX="-134" frameY="0" frameWidth="461" frameHeight="456"/>
+	<SubTexture name="GF DISCO DANCE0014" x="0" y="456" width="324" height="456" frameX="-134" frameY="0" frameWidth="461" frameHeight="456"/>
+	<SubTexture name="GF DISCO DANCE0015" x="324" y="456" width="321" height="444" frameX="-136" frameY="-12" frameWidth="461" frameHeight="456"/>
+	<SubTexture name="GF DISCO DANCE0016" x="324" y="456" width="321" height="444" frameX="-136" frameY="-12" frameWidth="461" frameHeight="456"/>
+	<SubTexture name="GF DISCO DANCE0017" x="645" y="456" width="320" height="444" frameX="-138" frameY="-12" frameWidth="461" frameHeight="456"/>
+	<SubTexture name="GF DISCO DANCE0018" x="965" y="456" width="320" height="444" frameX="-138" frameY="-12" frameWidth="461" frameHeight="456"/>
+	<SubTexture name="GF DISCO DANCE0019" x="1285" y="456" width="317" height="445" frameX="-140" frameY="-11" frameWidth="461" frameHeight="456"/>
+	<SubTexture name="GF DISCO DANCE0020" x="1285" y="456" width="317" height="445" frameX="-140" frameY="-11" frameWidth="461" frameHeight="456"/>
+	<SubTexture name="GF DISCO DANCE0021" x="1602" y="456" width="313" height="446" frameX="-144" frameY="-10" frameWidth="461" frameHeight="456"/>
+	<SubTexture name="GF DISCO DANCE0022" x="0" y="912" width="288" height="451" frameX="-173" frameY="-5" frameWidth="461" frameHeight="456"/>
+	<SubTexture name="GF DISCO DANCE0023" x="288" y="912" width="288" height="451" frameX="-173" frameY="-5" frameWidth="461" frameHeight="456"/>
+	<SubTexture name="GF DISCO DANCE0024" x="288" y="912" width="288" height="451" frameX="-173" frameY="-5" frameWidth="461" frameHeight="456"/>
+	<SubTexture name="GF DISCO DANCE0025" x="576" y="912" width="287" height="450" frameX="-173" frameY="-6" frameWidth="461" frameHeight="456"/>
+	<SubTexture name="GF DISCO DANCE0026" x="576" y="912" width="287" height="450" frameX="-173" frameY="-6" frameWidth="461" frameHeight="456"/>
+	<SubTexture name="GF DISCO DANCE0027" x="576" y="912" width="287" height="450" frameX="-173" frameY="-6" frameWidth="461" frameHeight="456"/>
+	<SubTexture name="GF DISCO DANCE0028" x="863" y="912" width="288" height="450" frameX="-172" frameY="-6" frameWidth="461" frameHeight="456"/>
+	<SubTexture name="GF DISCO DANCE0029" x="863" y="912" width="288" height="450" frameX="-172" frameY="-6" frameWidth="461" frameHeight="456"/>
+</TextureAtlas>
